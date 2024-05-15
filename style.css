@@ -122,11 +122,17 @@ nav {
 .exclusives div img {
     width: 100%;
     border-radius: 10px;
-
 }
+
 
 .exclusives div {
     position: relative;
+    transition: transform 0.8s;
+}
+
+.exclusives div:hover {
+    cursor: pointer;
+    transform: scale(1.13);
 }
 
 .exclusives div span {
@@ -150,13 +156,22 @@ nav {
 .trending div img {
     width: 100%;
     border-radius: 15px;
+    transition: transform 0.8s;
+}
 
+.trending div img:hover {
+    cursor: pointer;
+    transform: scale(0.9);
 }
 
 .trending h3 {
     font-weight: 600;
     margin-top: 10px;
+    transition: transform 0.8s;
+}
 
+.trending h3:hover{
+    cursor: pointer;    
 }
 
 
@@ -307,3 +322,5 @@ nav {
     border-radius: 2px;
 
 }
+
+
