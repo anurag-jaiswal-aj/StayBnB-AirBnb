@@ -206,7 +206,16 @@ nav {
     border-radius: 30px;
     margin-top: 20px;
     display: inline-block;
+    transition: transform 0.8s;
 }
+
+.cta-btn:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    background: #fff;
+    color: #ff5361;
+}
+
 
 /* ---------------------------Travellers Stories------------------------------ */
 .stories {
@@ -255,6 +264,13 @@ nav {
 
 }
 
+.start-btn:hover {
+    border: 1px solid #ff5361;
+    margin: 59px auto;
+    cursor: pointer;
+    background: #fff;
+    color: #ff5361;
+}
 
 /* ---------------------about------------------- */
 
