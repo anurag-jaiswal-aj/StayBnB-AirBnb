@@ -302,6 +302,7 @@ nav {
     margin: 0 10px;
 }
 
+
 .footer hr {
     background: #999;
     height: 1px;
@@ -317,6 +318,11 @@ nav {
 .social-icon {
     font-size: 22px;
     margin: 0 10px;
+}
+
+
+.copyright{
+    text-decoration: none;
 }
 
 
