@@ -2,10 +2,30 @@ Staybnb - UI Clone of Airbnb:<br>
 Welcome to Staybnb, a meticulously crafted user interface (UI) clone of Airbnb, created using HTML, CSS, and JavaScript.<br> This project focuses on replicating the visual design and layout of Airbnb’s home page and core features, providing a foundation for developers to build upon or use as a reference for their own projects.<br>
 
 Features:<br>
-Responsive Design: Ensures a seamless user experience across a wide range of devices, from mobile phones to desktops.
-Home Page Layout: Includes a hero section with a prominent search bar, featuring inputs for location, check-in and check-out dates, and the number of guests.
-Navigation Bar: A top navigation bar with links to popular places, travel abroad options, and packages, along with a register button for user authentication.
-Image and Video Backgrounds: Utilizes high-quality images to enhance the visual appeal and provide an immersive user experience.
-Interactive Search Bar: Designed to mimic Airbnb's search functionality with a user-friendly interface.
-Minimalistic UI Elements: Focus on clean and modern design elements to replicate the professional look and feel of Airbnb’s website.
-Footer Section: Includes placeholders for additional information such as social media links, support, and company details.
+Desktop Layout: Specifically designed for desktop users, providing a static and detailed replication of Airbnb's UI elements.<br>
+Hero Section: A captivating hero section featuring a search bar for entering location, check-in/check-out dates, and the number of guests.<br>
+Navigation Bar: Includes a top navigation bar with links to popular places, travel abroad options, and packages, as well as a register button for user authentication.<br>
+Search Bar: Mimics Airbnb's search functionality with a user-friendly input interface, though it is non-functional in this version.<br>
+High-Quality Imagery: Utilizes high-quality images to create a visually appealing interface, providing an immersive browsing experience.<br>
+UI Components: Clean and modern UI components designed to emulate the professional look and feel of Airbnb’s website.<br>
+Footer Section: Contains placeholders for additional information such as social media links, support, and company details.<br>
+No Responsiveness: The layout is static and tailored for desktop view only, without adjustments for mobile or tablet displays.(Not a feature)<br>
+
+Technologies Used:<br>
+HTML: Structuring the website with semantic elements and a clear layout.<br>
+CSS: Styling the UI with a focus on desktop design aesthetics.<br>
+
+Usage:<br>
+Explore the Design: Navigate through the UI to explore the layout and design elements.<br>
+Customize and Extend: Use the code as a starting point to customize or extend the UI to suit your project needs.<br>
+Learn from the Code: Study the HTML, CSS, and JavaScript to understand how to replicate similar UI components.<br>
+
+Installation: <br>
+1. Clone the repository:<br>
+git clone https://github.com/yourusername/.sneaker.git<br>
+2. Navigate to the project directory:<br>
+cd .sneaker<br>
+3. Open index.html in your web browser to view the website.<br>
+
+Contribution:<br>
+Contributions are welcome! Whether it's reporting issues, submitting pull requests, or suggesting new features, your input helps improve the Staybnb project.
