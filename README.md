@@ -29,3 +29,10 @@ cd .sneaker<br>
 
 Contribution:<br>
 Contributions are welcome! Whether it's reporting issues, submitting pull requests, or suggesting new features, your input helps improve the Staybnb project.
+
+Screenshot:<br>
+![Screenshot 2024-05-18 221338](https://github.com/anurag-jaiswal-aj/StayBnB-AirBnb/assets/144160916/1ccf296c-0760-441b-93cb-9633aaa374af)
+![Screenshot 2024-05-18 221613](https://github.com/anurag-jaiswal-aj/StayBnB-AirBnb/assets/144160916/bea361f6-2aec-4687-aea3-569bff141bbc)
+![Screenshot 2024-05-18 221741](https://github.com/anurag-jaiswal-aj/StayBnB-AirBnb/assets/144160916/0a5dd431-4363-4a7c-bcc5-10b98782c5e6)
+![Screenshot 2024-05-18 221820](https://github.com/anurag-jaiswal-aj/StayBnB-AirBnb/assets/144160916/152fbe5e-b54d-408a-b094-0aa51b387080)
+
